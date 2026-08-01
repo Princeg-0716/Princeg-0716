@@ -1,0 +1,56 @@
+name: Rotate Arcade Contribution SVG
+
+on:
+  schedule:
+    # Run every 30 minutes
+    - cron: '*/30 * * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub Actions tab
+  push:
+    branches:
+      - main
+      - master
+
+permissions:
+  contents: write
+
+jobs:
+  rotate-arcade:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Rotate Active Arcade SVG
+        run: |
+          # 7 Arcade Game SVG files
+          GAMES=(
+            "contribution-chat/acrade-contributions-pacman.svg"
+            "contribution-chat/acrade-contributions-bomberman.svg"
+            "contribution-chat/acrade-contributions-galaga.svg"
+            "contribution-chat/acrade-contributions-breakout.svg"
+            "contribution-chat/acrade-contributions-minesweeper.svg"
+            "contribution-chat/acrade-contributions-puzzle-bobble.svg"
+            "contribution-chat/github-user-contribution-dark.svg"
+          )
+
+          # Calculate current 30-minute interval index (0 to 6)
+          EPOCH=$(date +%s)
+          INTERVAL=$(( (EPOCH / 1800) % 7 ))
+          SELECTED_GAME="${GAMES[$INTERVAL]}"
+
+          echo "Active interval index: $INTERVAL -> $SELECTED_GAME"
+
+          # Copy selected game to current-arcade.svg
+          cp "$SELECTED_GAME" "contribution-chat/current-arcade.svg"
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add contribution-chat/current-arcade.svg
+          if git diff --staged --quiet; then
+            echo "No change in active arcade SVG."
+          else
+            git commit -m "chore: rotate arcade contribution SVG [skip ci]"
+            git push
+          fi
