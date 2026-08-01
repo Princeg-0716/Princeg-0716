@@ -105,11 +105,11 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Princeg-0716&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=false&bg_color=00000000&count_private=true" alt="stats" />
-  </p>
-  <p align="center">
+</p>
+<p align="center">
   <img height="165" src="https://streak-stats.demolab.com/?user=Princeg-0716&theme=dark&hide_border=false" alt="stats" />
-  </p>
-  <p align="center">
+</p>
+<p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Princeg-0716&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=false&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
@@ -118,7 +118,7 @@
 
 <p align="center">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Princeg-0716&bg_color=0d1117&color=58a6ff&line=8b5cf6&point=f472b6&area=true&hide_border=true&custom_title=Prince%20Gajera%27s%20Coding%20Universe"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Princeg-0716&bg_color=0d1117&color=58a6ff&line=8b5cf6&point=f472b6&area=true&hide_border=false&custom_title=Prince%20Gajera%27s%20Coding%20Universe"
       alt="Live GitHub activity graph for Princeg-0716"
     />
 </p>
