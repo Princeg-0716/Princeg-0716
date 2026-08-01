@@ -3,7 +3,7 @@ name: Rotate Arcade Contribution SVG
 on:
   schedule:
     # Run every 30 minutes
-    - cron: '*/30 * * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch: # Allows manual trigger from GitHub Actions tab
   push:
     branches:
