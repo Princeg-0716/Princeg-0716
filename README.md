@@ -19,7 +19,7 @@
 
 ---
 🔭 &nbsp;I'm currently working on **crazy ideas**  
-🌱 &nbsp;I'm currently learning **DS, SQL, JS, REACT, PYTHON, CYBER**  
+🌱 &nbsp;I'm currently learning **DS, SQL, JS, REACT, PYTHON, CYBER, FOREIGN LANGUAGES**  
 👯 &nbsp;I'm looking to collaborate on **OPEN SOURCE TOOLS**  
 🤔 &nbsp;I'm looking for help with **GROWING TOGETHER**  
 💬 &nbsp;Ask me about **TECH**  
@@ -29,30 +29,13 @@
 ---
 ### 🛠️ Tech Stack
 
-#### 🌐 Browsers & Search Engines
-<p align="left">
-  <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white" alt="Brave Browser" />
-  <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white" alt="Tor Browser" />
-  <img src="https://img.shields.io/badge/Shodan-000000?style=for-the-badge&logo=shodan&logoColor=red" alt="Shodan" />
-  <img src="https://img.shields.io/badge/Torch_Search-111111?style=for-the-badge&logo=tor-project&logoColor=gold" alt="Torch Search Engine" />
-  <img src="https://img.shields.io/badge/Google_Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Google Chrome" />
-  <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Mozilla Firefox" />
-</p>
-
-#### 💻 Operating Systems
-<p align="left">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C99?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Tails_OS-563D7C?style=for-the-badge&logo=tor-project&logoColor=white" alt="Tails OS" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows OS" />
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
-</p>
-
 #### 📝 Languages
 <p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+
+  ####🔒📚 In Progress<BR>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -98,6 +81,25 @@
   <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
 </p>
 
+#### 💻 Operating Systems
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C99?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Tails_OS-563D7C?style=for-the-badge&logo=tor-project&logoColor=white" alt="Tails OS" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows OS" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
+</p>
+
+#### 🌐 Browsers & Search Engines
+<p align="left">
+  <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white" alt="Brave Browser" />
+  <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white" alt="Tor Browser" />
+  <img src="https://img.shields.io/badge/Shodan-000000?style=for-the-badge&logo=shodan&logoColor=red" alt="Shodan" />
+  <img src="https://img.shields.io/badge/Torch_Search-111111?style=for-the-badge&logo=tor-project&logoColor=gold" alt="Torch Search Engine" />
+  <img src="https://img.shields.io/badge/Google_Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Google Chrome" />
+  <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Mozilla Firefox" />
+</p>
+
 ---
 ### 📊 GitHub Stats
 
@@ -122,10 +124,10 @@
 </p>
 
 ---
-### 🕹️ Dynamic Arcade Contribution Chart
+### 🕹️ Dynamic Contribution Chart
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Arcade%20Theme-Auto--Rotating%20Every%2030%20Mins-ff69b4?style=for-the-badge&logo=githubactions&logoColor=white" alt="Auto Rotating Arcade Chart Badge" />
+  <img src="https://img.shields.io/badge/Arcade%20Theme-Auto--Rotating%20Every%205%20Mins-ff69b4?style=for-the-badge&logo=githubactions&logoColor=white" alt="Auto Rotating Arcade Chart Badge" />
 </p>
 
 <p align="center">
