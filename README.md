@@ -18,13 +18,13 @@
 🌱 Long-term goal: go deep into ethical hacking / cybersecurity beyond the classroom  
 
 ---
-🔭 &nbsp;I'm currently working on **crazy ideas**  
+🔭 &nbsp;I'm currently working on **crazy ideas can't say you will see**  
 🌱 &nbsp;I'm currently learning **DS, SQL, JS, REACT, PYTHON, CYBER, FOREIGN LANGUAGES**  
 👯 &nbsp;I'm looking to collaborate on **OPEN SOURCE TOOLS**  
 🤔 &nbsp;I'm looking for help with **GROWING TOGETHER**  
 💬 &nbsp;Ask me about **TECH**  
 😄 &nbsp;Pronouns: **he/him**  
-⚡ &nbsp;Fun fact: **I CREATED MY OWN SEARCH ENGINE, APP OF 30 DIFF TOOLS**
+⚡ &nbsp;Fun fact: **I CREATED MY OWN SEARCH ENGINE WORK BANCH, APP OF 30 DIFF TOOLS**
 
 ---
 ### 🛠️ Tech Stack
