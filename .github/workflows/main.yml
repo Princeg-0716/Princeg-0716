@@ -37,7 +37,6 @@ jobs:
             "dist/pacman.svg"
             "dist/bomberman.svg"
             "dist/galaga.svg"
-            "dist/breakout.svg"
             "dist/minesweeper.svg"
             "dist/puzzle-bobble.svg"
             "dist/snake.svg"
