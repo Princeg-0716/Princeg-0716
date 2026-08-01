@@ -1,8 +1,8 @@
-name: Rotate Arcade Contribution SVG
+name: Rotate Real-Time Arcade Contribution SVG
 
 on:
   schedule:
-    # Run every 30 minutes
+    # Run every 5 minutes to fetch live contribution data & rotate theme
     - cron: '*/5 * * * *'
   workflow_dispatch: # Allows manual trigger from GitHub Actions tab
   push:
@@ -16,14 +16,34 @@ permissions:
 jobs:
   rotate-arcade:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Rotate Active Arcade SVG
+      - name: Generate Real-Time Arcade Contribution Graphs
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: Princeg-0716
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Select Active Game SVG (Real-Time 30-Min Interval)
         run: |
-          # 7 Arcade Game SVG files
+          mkdir -p contribution-chat
+
+          # Array of generated SVG files or fallback local files
           GAMES=(
+            "dist/pacman.svg"
+            "dist/bomberman.svg"
+            "dist/galaga.svg"
+            "dist/breakout.svg"
+            "dist/minesweeper.svg"
+            "dist/puzzle-bobble.svg"
+            "dist/snake.svg"
+          )
+
+          FALLBACK_GAMES=(
             "contribution-chat/acrade-contributions-pacman.svg"
             "contribution-chat/acrade-contributions-bomberman.svg"
             "contribution-chat/acrade-contributions-galaga.svg"
@@ -33,17 +53,21 @@ jobs:
             "contribution-chat/github-user-contribution-dark.svg"
           )
 
-          # Calculate current 30-minute interval index (0 to 6)
+          # Calculate 30-minute interval index (0 to 6)
           EPOCH=$(date +%s)
           INTERVAL=$(( (EPOCH / 1800) % 7 ))
+          
           SELECTED_GAME="${GAMES[$INTERVAL]}"
+          if [ ! -f "$SELECTED_GAME" ]; then
+            SELECTED_GAME="${FALLBACK_GAMES[$INTERVAL]}"
+          fi
 
           echo "Active interval index: $INTERVAL -> $SELECTED_GAME"
 
-          # Copy selected game to current-arcade.svg
+          # Copy active real-time SVG to current-arcade.svg
           cp "$SELECTED_GAME" "contribution-chat/current-arcade.svg"
 
-      - name: Commit and Push Changes
+      - name: Commit and Push Real-Time SVG Updates
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
@@ -51,6 +75,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No change in active arcade SVG."
           else
-            git commit -m "chore: rotate arcade contribution SVG [skip ci]"
+            git commit -m "chore: update real-time arcade contribution SVG [skip ci]"
             git push
           fi
