@@ -75,14 +75,6 @@
   <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" alt="Sketch" />
 </p>
 
-#### 🎮 Gaming, Hardware & Networking
-<p align="left">
-  <img src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white" alt="TOR" />
-  <img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white" alt="NVIDIA" />
-  <img src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white" alt="Epic Games" />
-  <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
-</p>
-
 #### 💻 Operating Systems
 <p align="left">
   <img src="https://img.shields.io/badge/Kali_Linux-557C99?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
