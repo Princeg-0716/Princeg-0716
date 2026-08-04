@@ -18,6 +18,7 @@
 🌱 Long-term goal: go deep into ethical hacking / cybersecurity beyond the classroom  
 
 ---
+<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/18ys00.jpg"  /><br>
 🔭 &nbsp;I'm currently working on **crazy ideas can't say you will see**  
 🌱 &nbsp;I'm currently learning **DS, SQL, JS, REACT, PYTHON, CYBER, FOREIGN LANGUAGES**  
 👯 &nbsp;I'm looking to collaborate on **OPEN SOURCE TOOLS**  
@@ -48,6 +49,7 @@
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
 </p>
 
 #### 🗄️ Databases
@@ -96,8 +98,6 @@
   <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white" alt="Tor Browser" />
   <img src="https://img.shields.io/badge/Shodan-000000?style=for-the-badge&logo=shodan&logoColor=red" alt="Shodan" />
   <img src="https://img.shields.io/badge/Torch_Search-111111?style=for-the-badge&logo=tor-project&logoColor=gold" alt="Torch Search Engine" />
-  <img src="https://img.shields.io/badge/Google_Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Google Chrome" />
-  <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Mozilla Firefox" />
 </p>
 
 ---
@@ -107,10 +107,10 @@
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Princeg-0716&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=false&bg_color=00000000&count_private=true" alt="stats" />
 </p>
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=Princeg-0716&theme=dark&hide_border=false" alt="stats" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=Princeg-0716&theme=dark&hide_border=false](https://streak-stats.demolab.com/?user=Princeg-0716&theme=dark&hide_border=false" alt="stats" />
 </p>
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Princeg-0716&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=false&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Princeg-0716&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="top langs" />
 </p>
 
 ---
