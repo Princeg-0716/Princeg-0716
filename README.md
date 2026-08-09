@@ -84,14 +84,6 @@
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
 </p>
 
-#### 🌐 Browsers & Search Engines
-<p align="left">
-  <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white" alt="Brave Browser" />
-  <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white" alt="Tor Browser" />
-  <img src="https://img.shields.io/badge/Shodan-000000?style=for-the-badge&logo=shodan&logoColor=red" alt="Shodan" />
-  <img src="https://img.shields.io/badge/Torch_Search-111111?style=for-the-badge&logo=tor-project&logoColor=gold" alt="Torch Search Engine" />
-</p>
-
 ---
 ### 📊 GitHub Stats
 
@@ -151,5 +143,5 @@
 Reach out if you're into cybersecurity, building side projects, or just want to talk tech.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Princeg0716&style=flat-square&color=blue" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Princeg-0716&style=flat-square&color=blue" alt="profile views"/>
 </p>
