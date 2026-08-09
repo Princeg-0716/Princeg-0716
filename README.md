@@ -25,7 +25,7 @@
 🤔 &nbsp;I'm looking for help with **GROWING TOGETHER**  
 💬 &nbsp;Ask me about **TECH**  
 😄 &nbsp;Pronouns: **he/him**  
-⚡ &nbsp;Fun fact: **I CREATED MY OWN SEARCH ENGINE WORK BANCH, APP OF 30 DIFF TOOLS**
+⚡ &nbsp;Fun fact: **I CREATED MY OWN SEARCH ENGINE WORK BANCH, APP OF 30 DIFF TOOLS, OFFLINE PASSWORD MANAGER**
 
 ---
 ### 🛠️ Tech Stack
