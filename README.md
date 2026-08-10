@@ -8,7 +8,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=900&height=44&lines=BTech%20CSE%20%40%20Darshan%20University%20%7C%20Building%20things%2C%20breaking%20things%20(ethically);working%20on%20GitHub%20for%20over%20a%20year%20and%20back%20with%20a%20new%20account" alt="Typing headlines" />
 </p>
 
----
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
+
 ### 🚀 About Me
 
 🎓 Currently pursuing CSE (Computer Science & Engineering) at Darshan University  
@@ -17,7 +18,8 @@
 📚 Currently sharpening DSA, SQL, and JavaScript / React for coursework  
 🌱 Long-term goal: go deep into ethical hacking / cybersecurity beyond the classroom  
 
----
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
+
 <img data-importer="image" align="right" height="150" src="https://i.imgflip.com/18ys00.jpg"  /><br>
 🔭 &nbsp;I'm currently working on **crazy ideas can't say you will see**  
 🌱 &nbsp;I'm currently learning **DS, SQL, JS, REACT, PYTHON, CYBER, FOREIGN LANGUAGES**  
@@ -27,7 +29,8 @@
 😄 &nbsp;Pronouns: **he/him**  
 ⚡ &nbsp;Fun fact: **I CREATED MY OWN SEARCH ENGINE WORK BANCH, APP OF 30 DIFF TOOLS, OFFLINE PASSWORD MANAGER**
 
----
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
+
 ### 🛠️ Tech Stack
 
 #### 📝 Languages
@@ -83,7 +86,8 @@
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
 </p>
 
----
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -96,7 +100,8 @@
   <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Princeg-0716&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="top langs" />
 </p>
 
----
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
+
 ### 📈 Contribution Graph
 
 <p align="center">
@@ -106,7 +111,8 @@
     />
 </p>
 
----
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
+
 ### 🕹️ Dynamic Contribution Chart
 
 <p align="center">
@@ -117,11 +123,12 @@
   <img width="100%" src="./contribution-chat/current-arcade.svg" alt="Dynamic Arcade Game Contribution Chart" />
 </p>
 
----
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Princeg-0716&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
 
 ### 🔗 Connect With Me
 
@@ -135,7 +142,7 @@
 
 </p>
 
----
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
 
 ### 📫 Let's Connect
 
